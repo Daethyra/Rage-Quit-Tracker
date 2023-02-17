@@ -9,9 +9,9 @@ With the "Rage Quits Tally" program, you can keep track of your rage quits, see 
 
 So why wait? Download the "Rage Quits Tally" program today and take control of your rage quitting habits! Who knows, you might even learn something about yourself along the way.
 
+#### ***Questions? Contact <a href="https://instagram.com/xdaethyra/">@xdaethyra</a> on Instagram.***
 
-
-Installation instructions below:
+# Installation :
 1) Go to the Python website: https://www.python.org/
 
 2) Click the "Downloads" tab at the top of the page.
